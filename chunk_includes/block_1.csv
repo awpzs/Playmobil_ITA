@@ -1,0 +1,117 @@
+List,Order,Item,Condition,Amb,Vis,Half,FirstDisplay,SecondDisplay,sentence,Chinese,Italian
+1,4,p3,,,,,p0401.jpg,p0402.jpg,The knight saw a bale of straw and a chicken  on his way to work.,骑士在去工作的路上，看见了一垛干草和一只鸡。,Il cavaliere ha visto una balla di fieno e un pollo mentre andava al lavoro.
+2,4,p3,,,,,p0401.jpg,p0402.jpg,The knight saw a bale of straw and a chicken  on his way to work.,骑士在去工作的路上，看见了一垛干草和一只鸡。,Il cavaliere ha visto una balla di fieno e un pollo mentre andava al lavoro.
+3,4,p3,,,,,p0401.jpg,p0402.jpg,The knight saw a bale of straw and a chicken  on his way to work.,骑士在去工作的路上，看见了一垛干草和一只鸡。,Il cavaliere ha visto una balla di fieno e un pollo mentre andava al lavoro.
+4,4,p3,,,,,p0401.jpg,p0402.jpg,The knight saw a bale of straw and a chicken  on his way to work.,骑士在去工作的路上，看见了一垛干草和一只鸡。,Il cavaliere ha visto una balla di fieno e un pollo mentre andava al lavoro.
+1,5,p2,,,,,p0301.jpg,p0302.jpg,A young girl liked the teddy very much when she was  shopping with her mother.,小女孩和妈妈去买东西的时候，一眼看上了这个泰迪熊。,L'orsacchiotto e' piaciuto molto alla bambina quando faceva la spesa con la sua mamma.
+2,5,p2,,,,,p0301.jpg,p0302.jpg,A young girl liked the teddy very much when she was  shopping with her mother.,小女孩和妈妈去买东西的时候，一眼看上了这个泰迪熊。,L'orsacchiotto e' piaciuto molto alla bambina quando faceva la spesa con la sua mamma.
+3,5,p2,,,,,p0301.jpg,p0302.jpg,A young girl liked the teddy very much when she was  shopping with her mother.,小女孩和妈妈去买东西的时候，一眼看上了这个泰迪熊。,L'orsacchiotto e' piaciuto molto alla bambina quando faceva la spesa con la sua mamma.
+4,5,p2,,,,,p0301.jpg,p0302.jpg,A young girl liked the teddy very much when she was  shopping with her mother.,小女孩和妈妈去买东西的时候，一眼看上了这个泰迪熊。,L'orsacchiotto e' piaciuto molto alla bambina quando faceva la spesa con la sua mamma.
+1,6,x01,,,,1,x0301.jpg,x0302.jpg,"When he was alone, the ghost felt lonely. ",鬼魂独自呆着的时候，会感到孤独。,"Quando era solo, il fantasma si sentiva solo."
+2,6,x01,,,,1,x0301.jpg,x0302.jpg,"When he was alone, the ghost felt lonely. ",鬼魂独自呆着的时候，会感到孤独。,"Quando era solo, il fantasma si sentiva solo."
+3,6,x01,,,,1,x0301.jpg,x0302.jpg,"When he was alone, the ghost felt lonely. ",鬼魂独自呆着的时候，会感到孤独。,"Quando era solo, il fantasma si sentiva solo."
+4,6,x01,,,,1,x0301.jpg,x0302.jpg,"When he was alone, the ghost felt lonely. ",鬼魂独自呆着的时候，会感到孤独。,"Quando era solo, il fantasma si sentiva solo."
+1,7,x02,,,,1,x0201.jpg,x0202.jpg,The Egyptian had lost her way when she met  a man with a compass.,埃及人迷路的时候，遇到了一个带着指南针的男人。,L'egiziana aveva smarrito la strada quando ha incontrato un uomo con la bussola.
+2,7,x02,,,,1,x0201.jpg,x0202.jpg,The Egyptian had lost her way when she met  a man with a compass.,埃及人迷路的时候，遇到了一个带着指南针的男人。,L'egiziana aveva smarrito la strada quando ha incontrato un uomo con la bussola.
+3,7,x02,,,,1,x0201.jpg,x0202.jpg,The Egyptian had lost her way when she met  a man with a compass.,埃及人迷路的时候，遇到了一个带着指南针的男人。,L'egiziana aveva smarrito la strada quando ha incontrato un uomo con la bussola.
+4,7,x02,,,,1,x0201.jpg,x0202.jpg,The Egyptian had lost her way when she met  a man with a compass.,埃及人迷路的时候，遇到了一个带着指南针的男人。,L'egiziana aveva smarrito la strada quando ha incontrato un uomo con la bussola.
+1,8,1,4,2,2,1,4011.jpg,4012.jpg,The witch visited the garden with the boy.,女巫和男孩去参观了花园。,La strega ha visitato il giardino con il bambino.
+2,8,1,1,1,1,1,1011.jpg,1012.jpg,The witch visited the garden with the girl. ,女巫和女孩去参观了花园。,La strega ha visitato il giardino con la bambina.
+3,8,1,2,1,2,1,2011.jpg,2012.jpg,The witch visited the garden with the girl. ,女巫和女孩去参观了花园。,La strega ha visitato il giardino con la bambina.
+4,8,1,3,2,1,1,3011.jpg,3012.jpg,The witch visited the garden with the boy.,女巫和男孩去参观了花园。,La strega ha visitato il giardino con il bambino.
+1,9,x03,,,,1,x3101.jpg,x3102.jpg,The neighbour's cats were vegetarians.,领居家的猫吃素。,I gatti del vicino erano vegetariani.
+2,9,x03,,,,1,x3101.jpg,x3102.jpg,The neighbour's cats were vegetarians.,领居家的猫吃素。,I gatti del vicino erano vegetariani.
+3,9,x03,,,,1,x3101.jpg,x3102.jpg,The neighbour's cats were vegetarians.,领居家的猫吃素。,I gatti del vicino erano vegetariani.
+4,9,x03,,,,1,x3101.jpg,x3102.jpg,The neighbour's cats were vegetarians.,领居家的猫吃素。,I gatti del vicino erano vegetariani.
+1,10,2,1,1,1,1,1021.jpg,1022.jpg,The Indian went to the forest with the admiral.,印第安人和将军去了森林。,L'indiano e' andato nella foresta con l'ammiraglio.
+2,10,2,2,1,2,1,2021.jpg,2022.jpg,The Indian went to the forest with the admiral.,印第安人和将军去了森林。,L'indiano e' andato nella foresta con l'ammiraglio.
+3,10,2,3,2,1,1,3021.jpg,3022.jpg,The Indian went to the forest with the countess.,印第安人和女爵士去了森林。,L'indiano e' andato nella foresta con la contessa.
+4,10,2,4,2,2,1,4021.jpg,4022.jpg,The Indian went to the forest with the countess.,印第安人和女爵士去了森林。,L'indiano e' andato nella foresta con la contessa.
+1,11,x04,,,,1,x0701.jpg,x0702.jpg,Grandmother saw her rabbits were outside.,奶奶看见她的兔子正在外面。,La nonna ha visto che i conigli erano usciti.
+2,11,x04,,,,1,x0701.jpg,x0702.jpg,Grandmother saw her rabbits were outside.,奶奶看见她的兔子正在外面。,La nonna ha visto che i conigli erano usciti.
+3,11,x04,,,,1,x0701.jpg,x0702.jpg,Grandmother saw her rabbits were outside.,奶奶看见她的兔子正在外面。,La nonna ha visto che i conigli erano usciti.
+4,11,x04,,,,1,x0701.jpg,x0702.jpg,Grandmother saw her rabbits were outside.,奶奶看见她的兔子正在外面。,La nonna ha visto che i conigli erano usciti.
+1,12,3,2,1,2,1,2031.jpg,2032.jpg,The countess came out of the house with the nun.,女爵士和修女从房子里出来。,La contessa e' uscita da casa con la suora.
+2,12,3,3,2,1,1,3031.jpg,3032.jpg,The countess came out of the house with the priest.,女爵士和牧师从房子里出来。,La contessa e' uscita da casa con il prete.
+3,12,3,4,2,2,1,4031.jpg,4032.jpg,The countess came out of the house with the priest.,女爵士和牧师从房子里出来。,La contessa e' uscita da casa con il prete.
+4,12,3,1,1,1,1,1031.jpg,1032.jpg,The countess came out of the house with the nun.,女爵士和修女从房子里出来。,La contessa e' uscita da casa con la suora.
+1,13,x05,,,,1,x0501.jpg,x0502.jpg,The knight asked the race car driver for his helmet.,骑士找赛车手要他的头盔。,Il cavaliere ha chiesto l'elmetto al pilota di auto da corsa. 
+2,13,x05,,,,1,x0501.jpg,x0502.jpg,The knight asked the race car driver for his helmet.,骑士找赛车手要他的头盔。,Il cavaliere ha chiesto l'elmetto al pilota di auto da corsa. 
+3,13,x05,,,,1,x0501.jpg,x0502.jpg,The knight asked the race car driver for his helmet.,骑士找赛车手要他的头盔。,Il cavaliere ha chiesto l'elmetto al pilota di auto da corsa. 
+4,13,x05,,,,1,x0501.jpg,x0502.jpg,The knight asked the race car driver for his helmet.,骑士找赛车手要他的头盔。,Il cavaliere ha chiesto l'elmetto al pilota di auto da corsa. 
+1,14,4,3,2,1,1,3041.jpg,3042.jpg,The king visited the castle with the stewardess.,国王和乘务员去参观了城堡。,Il re ha visitato il castello con la hostess.
+2,14,4,4,2,2,1,4041.jpg,4042.jpg,The king visited the castle with the stewardess.,国王和乘务员去参观了城堡。,Il re ha visitato il castello con la hostess.
+3,14,4,1,1,1,1,1041.jpg,1042.jpg,The king visited the castle with the pilot.,国王和飞行员去参观了城堡。,Il re ha visitato il castello con il pilota.
+4,14,4,2,1,2,1,2041.jpg,2042.jpg,The king visited the castle with the pilot.,国王和飞行员去参观了城堡。,Il re ha visitato il castello con il pilota.
+1,15,x06,,,,1,x2101.jpg,x2102.jpg,The fire-fighter was in a hurry when he saw the  red traffic light.,消防员正在赶时间，却撞上了红灯。,Il pompiere aveva fretta quando ha visto il semaforo rosso.
+2,15,x06,,,,1,x2101.jpg,x2102.jpg,The fire-fighter was in a hurry when he saw the  red traffic light.,消防员正在赶时间，却撞上了红灯。,Il pompiere aveva fretta quando ha visto il semaforo rosso.
+3,15,x06,,,,1,x2101.jpg,x2102.jpg,The fire-fighter was in a hurry when he saw the  red traffic light.,消防员正在赶时间，却撞上了红灯。,Il pompiere aveva fretta quando ha visto il semaforo rosso.
+4,15,x06,,,,1,x2101.jpg,x2102.jpg,The fire-fighter was in a hurry when he saw the  red traffic light.,消防员正在赶时间，却撞上了红灯。,Il pompiere aveva fretta quando ha visto il semaforo rosso.
+1,16,5,1,1,1,1,1051.jpg,1052.jpg,The captain was invited to the palace with  the policeman.,船长和男警察被邀请去宫殿。,Il capitano e' stato invitato a palazzo con il poliziotto.
+2,16,5,2,1,2,1,2051.jpg,2052.jpg,The captain was invited to the palace with  the policeman.,船长和男警察被邀请去宫殿。,Il capitano e' stato invitato a palazzo con il poliziotto.
+3,16,5,3,2,1,1,3051.jpg,3052.jpg,The captain was invited to the palace with  the policewoman.,船长和女警察被邀请去宫殿。,Il capitano e' stato invitato a palazzo con la poliziotta.
+4,16,5,4,2,2,1,4051.jpg,4052.jpg,The captain was invited to the palace with  the policewoman.,船长和女警察被邀请去宫殿。,Il capitano e' stato invitato a palazzo con la poliziotta.
+1,17,x07,,,,1,x0601.jpg,x0602.jpg,The waitress heard someone behind her.,服务员听见背后有人。,La cameriera ha sentito che c'era qualcuno dietro di lei.
+2,17,x07,,,,1,x0601.jpg,x0602.jpg,The waitress heard someone behind her.,服务员听见背后有人。,La cameriera ha sentito che c'era qualcuno dietro di lei.
+3,17,x07,,,,1,x0601.jpg,x0602.jpg,The waitress heard someone behind her.,服务员听见背后有人。,La cameriera ha sentito che c'era qualcuno dietro di lei.
+4,17,x07,,,,1,x0601.jpg,x0602.jpg,The waitress heard someone behind her.,服务员听见背后有人。,La cameriera ha sentito che c'era qualcuno dietro di lei.
+1,18,6,3,2,1,1,3061.jpg,3062.jpg,The gardener went to the river with the bride.,园丁和新娘去游河。,Il giardiniere e' andato al fiume con la sposa.
+2,18,6,4,2,2,1,4061.jpg,4062.jpg,The gardener went to the river with the bride.,园丁和新娘去游河。,Il giardiniere e' andato al fiume con la sposa.
+3,18,6,1,1,1,1,1061.jpg,1062.jpg,The gardener went to the river with the groom.,园丁和新郎去游河。,Il giardiniere e' andato al fiume con lo sposo.
+4,18,6,2,1,2,1,2061.jpg,2062.jpg,The gardener went to the river with the groom.,园丁和新郎去游河。,Il giardiniere e' andato al fiume con lo sposo.
+1,19,x08,,,,1,x0801.jpg,x0802.jpg,The cleaner saw the carpet was relatively clean.,清洁工发现地毯还算干净。,L'addetta alle pulizie ha notato che il tappeto era relativamente pulito.
+2,19,x08,,,,1,x0801.jpg,x0802.jpg,The cleaner saw the carpet was relatively clean.,清洁工发现地毯还算干净。,L'addetta alle pulizie ha notato che il tappeto era relativamente pulito.
+3,19,x08,,,,1,x0801.jpg,x0802.jpg,The cleaner saw the carpet was relatively clean.,清洁工发现地毯还算干净。,L'addetta alle pulizie ha notato che il tappeto era relativamente pulito.
+4,19,x08,,,,1,x0801.jpg,x0802.jpg,The cleaner saw the carpet was relatively clean.,清洁工发现地毯还算干净。,L'addetta alle pulizie ha notato che il tappeto era relativamente pulito.
+1,20,x09,,,,1,x1501.jpg,x1502.jpg,The new zookeeper was introduced to the seals. ,新来的动物管理员被介绍给了海豹们。,Il nuovo lavoratore dello zoo e' stato presentato alle foche.
+2,20,x09,,,,1,x1501.jpg,x1502.jpg,The new zookeeper was introduced to the seals. ,新来的动物管理员被介绍给了海豹们。,Il nuovo lavoratore dello zoo e' stato presentato alle foche.
+3,20,x09,,,,1,x1501.jpg,x1502.jpg,The new zookeeper was introduced to the seals. ,新来的动物管理员被介绍给了海豹们。,Il nuovo lavoratore dello zoo e' stato presentato alle foche.
+4,20,x09,,,,1,x1501.jpg,x1502.jpg,The new zookeeper was introduced to the seals. ,新来的动物管理员被介绍给了海豹们。,Il nuovo lavoratore dello zoo e' stato presentato alle foche.
+1,21,7,2,1,2,1,2071.jpg,2072.jpg,The woman explored the cave with the queen.,女人和王后去探索了洞穴。,La donna ha esplorato la caverna con la regina.
+2,21,7,3,2,1,1,3071.jpg,3072.jpg,The woman explored the cave with the king.,女人和国王去探索了洞穴。,La donna ha esplorato la caverna con il re.
+3,21,7,4,2,2,1,4071.jpg,4072.jpg,The woman explored the cave with the king.,女人和国王去探索了洞穴。,La donna ha esplorato la caverna con il re.
+4,21,7,1,1,1,1,1071.jpg,1072.jpg,The woman explored the cave with the queen.,女人和王后去探索了洞穴。,La donna ha esplorato la caverna con la regina.
+1,22,x10,,,,1,x1901.jpg,x1902.jpg,The astronaut was visiting his colleague's home.,宇航员去拜访了同事家。,L'astronauta stava visitando il suo collega a casa sua.
+2,22,x10,,,,1,x1901.jpg,x1902.jpg,The astronaut was visiting his colleague's home.,宇航员去拜访了同事家。,L'astronauta stava visitando il suo collega a casa sua.
+3,22,x10,,,,1,x1901.jpg,x1902.jpg,The astronaut was visiting his colleague's home.,宇航员去拜访了同事家。,L'astronauta stava visitando il suo collega a casa sua.
+4,22,x10,,,,1,x1901.jpg,x1902.jpg,The astronaut was visiting his colleague's home.,宇航员去拜访了同事家。,L'astronauta stava visitando il suo collega a casa sua.
+1,23,8,4,2,2,1,4081.jpg,4082.jpg,The gladiator had a chat with the lady.,角斗士和女士聊了会天。,Il gladiatore ha chiaccherato con la signora.
+2,23,8,1,1,1,1,1081.jpg,1082.jpg,The gladiator had a chat with the gentleman.,角斗士和绅士聊了会天。,Il gladiatore ha chiaccherato con il signore.
+3,23,8,2,1,2,1,2081.jpg,2082.jpg,The gladiator had a chat with the gentleman.,角斗士和绅士聊了会天。,Il gladiatore ha chiaccherato con il signore.
+4,23,8,3,2,1,1,3081.jpg,3082.jpg,The gladiator had a chat with the lady.,角斗士和女士聊了会天。,Il gladiatore ha chiaccherato con la signora.
+1,24,x11,,,,1,x2601.jpg,x2602.jpg,The footballer found the ball on his way home.,足球运动员在回家的路上发现了自己的球。,Il calciatore ha trovato la palla mentre tornava a casa sua. 
+2,24,x11,,,,1,x2601.jpg,x2602.jpg,The footballer found the ball on his way home.,足球运动员在回家的路上发现了自己的球。,Il calciatore ha trovato la palla mentre tornava a casa sua. 
+3,24,x11,,,,1,x2601.jpg,x2602.jpg,The footballer found the ball on his way home.,足球运动员在回家的路上发现了自己的球。,Il calciatore ha trovato la palla mentre tornava a casa sua. 
+4,24,x11,,,,1,x2601.jpg,x2602.jpg,The footballer found the ball on his way home.,足球运动员在回家的路上发现了自己的球。,Il calciatore ha trovato la palla mentre tornava a casa sua. 
+1,25,9,3,2,1,1,3091.jpg,3092.jpg,The queen enjoyed a discussion with the cowboy.,王后和牛仔进行了愉快的谈话。,La regina ha conversato con il cowboy.
+2,25,9,4,2,2,1,4091.jpg,4092.jpg,The queen enjoyed a discussion with the cowboy.,王后和牛仔进行了愉快的谈话。,La regina ha conversato con il cowboy.
+3,25,9,1,1,1,1,1091.jpg,1092.jpg,The queen enjoyed a discussion with the nanny.,王后和保姆进行了愉快的谈话。,La regina ha conversato con la bambinaia.
+4,25,9,2,1,2,1,2091.jpg,2092.jpg,The queen enjoyed a discussion with the nanny.,王后和保姆进行了愉快的谈话。,La regina ha conversato con la bambinaia.
+1,26,x12,,,,1,x0401.jpg,x0402.jpg,The thief had been trying to open the safe for hours.,小偷这几个小时一直在尝试打开保险箱。,Il ladro aveva tentato per ore di aprire la cassaforte.
+2,26,x12,,,,1,x0401.jpg,x0402.jpg,The thief had been trying to open the safe for hours.,小偷这几个小时一直在尝试打开保险箱。,Il ladro aveva tentato per ore di aprire la cassaforte.
+3,26,x12,,,,1,x0401.jpg,x0402.jpg,The thief had been trying to open the safe for hours.,小偷这几个小时一直在尝试打开保险箱。,Il ladro aveva tentato per ore di aprire la cassaforte.
+4,26,x12,,,,1,x0401.jpg,x0402.jpg,The thief had been trying to open the safe for hours.,小偷这几个小时一直在尝试打开保险箱。,Il ladro aveva tentato per ore di aprire la cassaforte.
+1,27,10,4,2,2,1,4101.jpg,4102.jpg,The boy went to the race track with the witch.,男孩和女巫去了赛道。,Il bambino e' andato all'autodromo con la strega.
+2,27,10,1,1,1,1,1101.jpg,1102.jpg,The boy went to the race track with the wizard.,男孩和巫师去了赛道。,Il bambino e' andato all'autodromo con il mago.
+3,27,10,2,1,2,1,2101.jpg,2102.jpg,The boy went to the race track with the wizard.,男孩和巫师去了赛道。,Il bambino e' andato all'autodromo con il mago.
+4,27,10,3,2,1,1,3101.jpg,3102.jpg,The boy went to the race track with the witch.,男孩和女巫去了赛道。,Il bambino e' andato all'autodromo con la strega.
+1,28,x13,,,,1,x1201.jpg,x1202.jpg,The plumber held a hula hoop in front of his daughter.,水管工在他女儿面前放了个呼拉圈。,L'idraulico ha tenuto alzato l'hula hoop  davanti a sua figlia.
+2,28,x13,,,,1,x1201.jpg,x1202.jpg,The plumber held a hula hoop in front of his daughter.,水管工在他女儿面前放了个呼拉圈。,L'idraulico ha tenuto alzato l'hula hoop  davanti a sua figlia.
+3,28,x13,,,,1,x1201.jpg,x1202.jpg,The plumber held a hula hoop in front of his daughter.,水管工在他女儿面前放了个呼拉圈。,L'idraulico ha tenuto alzato l'hula hoop  davanti a sua figlia.
+4,28,x13,,,,1,x1201.jpg,x1202.jpg,The plumber held a hula hoop in front of his daughter.,水管工在他女儿面前放了个呼拉圈。,L'idraulico ha tenuto alzato l'hula hoop  davanti a sua figlia.
+1,29,x14,,,,1,x1301.jpg,x1302.jpg,The seals became very hungry after the new zookeeper had gone home.,新来的动物管理员回家后，海豹们变得很饿。,Alle foche e' venuta tanta fame dopo che l'addetto allo zoo e' tornato a casa.
+2,29,x14,,,,1,x1301.jpg,x1302.jpg,The seals became very hungry after the new zookeeper had gone home.,新来的动物管理员回家后，海豹们变得很饿。,Alle foche e' venuta tanta fame dopo che l'addetto allo zoo e' tornato a casa.
+3,29,x14,,,,1,x1301.jpg,x1302.jpg,The seals became very hungry after the new zookeeper had gone home.,新来的动物管理员回家后，海豹们变得很饿。,Alle foche e' venuta tanta fame dopo che l'addetto allo zoo e' tornato a casa.
+4,29,x14,,,,1,x1301.jpg,x1302.jpg,The seals became very hungry after the new zookeeper had gone home.,新来的动物管理员回家后，海豹们变得很饿。,Alle foche e' venuta tanta fame dopo che l'addetto allo zoo e' tornato a casa.
+1,30,11,1,1,1,1,1111.jpg,1112.jpg,The mermaid left hospital with the policewoman.,美人鱼和女警察离开了医院。,La sirena e' uscita dall' ospedale con la poliziotta.
+2,30,11,2,1,2,1,2111.jpg,2112.jpg,The mermaid left hospital with the policewoman.,美人鱼和女警察离开了医院。,La sirena e' uscita dall' ospedale con la poliziotta.
+3,30,11,3,2,1,1,3111.jpg,3112.jpg,The mermaid left hospital with the policeman.,美人鱼和男警察离开了医院。,La sirena e' uscita dall' ospedale con il poliziotto.
+4,30,11,4,2,2,1,4111.jpg,4112.jpg,The mermaid left hospital with the policeman.,美人鱼和男警察离开了医院。,La sirena e' uscita dall' ospedale con il poliziotto.
+1,31,x15,,,,1,x1401.jpg,x1402.jpg,A bird had been sitting on the zookeeper's cage.,一只鸟蹲在动物管理员的笼子上。,Un uccello stava seduto sulla gabbia dell'addetto allo zoo.
+2,31,x15,,,,1,x1401.jpg,x1402.jpg,A bird had been sitting on the zookeeper's cage.,一只鸟蹲在动物管理员的笼子上。,Un uccello stava seduto sulla gabbia dell'addetto allo zoo.
+3,31,x15,,,,1,x1401.jpg,x1402.jpg,A bird had been sitting on the zookeeper's cage.,一只鸟蹲在动物管理员的笼子上。,Un uccello stava seduto sulla gabbia dell'addetto allo zoo.
+4,31,x15,,,,1,x1401.jpg,x1402.jpg,A bird had been sitting on the zookeeper's cage.,一只鸟蹲在动物管理员的笼子上。,Un uccello stava seduto sulla gabbia dell'addetto allo zoo.
+1,32,12,2,1,2,1,2121.jpg,2122.jpg,The queen went for a walk with the princess.,王后和公主去散步。,La regina ha fatto una passeggiata con la principessa.
+2,32,12,3,2,1,1,3121.jpg,3122.jpg,The queen went for a walk with the prince.,王后和王子去散步。,La regina ha fatto una passeggiata con il principe.
+3,32,12,4,2,2,1,4121.jpg,4122.jpg,The queen went for a walk with the prince.,王后和王子去散步。,La regina ha fatto una passeggiata con il principe.
+4,32,12,1,1,1,1,1121.jpg,1122.jpg,The queen went for a walk with the princess.,王后和公主去散步。,La regina ha fatto una passeggiata con la principessa.
